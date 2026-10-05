@@ -1,0 +1,33 @@
+DEMONSTRATION DATA — invented sample for prototype testing; not acquired scientific observations.
+
+==============================================================================
+EXPEDITION FIELD REPORT: CHHOTRA SHIGRI BENCHMARK GLACIER SURVEY (SEASON 2024)
+STATION BASE: Himansh Observatory, Spiti Valley, Western Himalaya (4,080m a.s.l.)
+INVESTIGATORS: Dr. Rajeshwar Sharma, Centre for High-Altitude Glaciology
+PROTOCOL: WGS 84 / ISO-19115 Cryospheric Survey Standard
+==============================================================================
+
+EXECUTIVE ABSTRACT:
+Between May and September 2024, our field team conducted the annual glaciological mass balance measurement cycle across the Chhota Shigri benchmark glacier in the Chandra-Bhaga basin (Western Himalaya). Using a network of 26 ablation stakes drilled to depths between 6m and 12m into the ice surface, we recorded cumulative summer melt rates across an altitude gradient from 4,300m up to 5,800m.
+
+KEY FIELD OBSERVATIONS:
+1. Equilibrium Line Altitude (ELA):
+   The ELA for the 2023-24 hydrological year settled at approximately 5,080m, representing an up-glacier migration of +65m relative to the 2012–2020 decadal mean.
+
+2. Net Mass Balance:
+   Preliminary net balance calculates to -0.62 meters water equivalent per year (m w.e. yr⁻¹), confirming continued negative mass balance in the Western Himalayan benchmark series.
+
+3. Supraglacial Debris Insulation:
+   Debris-covered tongues exhibited reduced ablation rates (up to 40% attenuation under debris layers thicker than 15 cm), confirming the insulating effect of coarse metamorphic scree.
+
+4. Meltwater Hydrochemistry:
+   Turbidity and conductivity sensors positioned at the proglacial stream outlet recorded peak discharge between 14:00 and 16:30 local time, directly correlating with afternoon solar irradiance.
+
+DATASET PACKAGING:
+- Continuous stake coordinate readings (DGPS centimeter precision)
+- Proglacial stream discharge hydrographs
+- High-altitude meteorological timeseries from the Himansh automatic station
+
+DOI: Not registered
+Status: Submitted for Archival Peer Review
+==============================================================================

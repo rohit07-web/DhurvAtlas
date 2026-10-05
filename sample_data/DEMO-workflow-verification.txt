@@ -1,0 +1,6 @@
+DEMONSTRATION DATA — DHRUV ATLAS WORKFLOW TEST
+This is an invented sample for testing upload, review, publication, and download.
+It is not acquired scientific data and contains no real station measurements.
+Illustrative observation: a fictional field team records three sample observations in a training notebook.
+Purpose: verify that private drafts are hidden, approved resources can be downloaded, and unpublishing removes public access.
+DOI: none. Source: g-SAP prototype test fixture.
